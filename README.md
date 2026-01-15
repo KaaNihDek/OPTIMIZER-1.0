@@ -70,13 +70,13 @@ View Optimizer in action through our [Screenshots](https://github.com/hellzerg/o
 <h2>🔨 Automation using Templating</h2> 
 </center>
 
-Explore the possibilities of automation with Optimizer through our [Automation Guide](https://github.com/hellzerg/optimizer/blob/master/AUTOMATION.md).
+Explore the possibilities of automation with Optimizer through our [Automation Guide](https://github.com/KaaNihDek/OPTIMIZER-1.0/blob/main/AUTOMATION.md).
 
 <center>
 <h2> 🔨 Command-line Options</h2> 
 </center>
 
-Check out the [Command-line Options](https://github.com/hellzerg/optimizer/blob/master/CONFS.md) available for Optimizer.
+Check out the [Command-line Options](https://github.com/KaaNihDek/OPTIMIZER-1.0/blob/main/CONFS.md) available for Optimizer.
 
 <center>
 <h2> ❓ Frequently Asked Questions</h2> 
@@ -94,7 +94,7 @@ Stay updated with the latest changes through the [Changelog](https://github.com/
 <h2>🛡️ Security Policy</h2> 
 </center>
 
-Learn about our security measures in the [Security Policy](https://github.com/hellzerg/optimizer/blob/master/SECURITY.md).
+Learn about our security measures in the [Security Policy](https://github.com/KaaNihDek/OPTIMIZER-1.0/blob/main/SECURITY.md).
 
 <center>
 <h2> 💻 Compatibility</h2> 
