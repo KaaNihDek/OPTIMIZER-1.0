@@ -50,7 +50,7 @@ Welcome to Optimizer, an advanced configuration utility designed to enhance your
 <h2> ⬇️ Downloads</h2> 
 </center>
 
-Find the latest release of Optimizer on the [Discord](https://discord.gg/WAvpQ6Hag9) page.
+Find the latest release of Optimizer on the [github](https://github.com/KaaNihDek/LEMON-OPTI) page.
 
 <center>
 <h2>🖼️ Screenshots</h2> 
