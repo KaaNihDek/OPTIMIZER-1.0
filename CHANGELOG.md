@@ -1,4 +1,5 @@
 ## [16.7] - 2026-15-01
+- ADDED: Mouse & Keyboard Tweaks
 - New: Disable Edge and Chrome telemetry options now extends Manifest v2 support
 - New: Enable Registry Periodic Backups
 - Hotfix: Various UI bugs
